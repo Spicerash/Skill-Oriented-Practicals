@@ -1,0 +1,31 @@
+body{
+background-color:#A9A9A9;
+font-family:times new roman,arial;
+}
+
+h1{
+margin:0;
+}
+.header{
+color:#FFFFFF;
+background-color:#808080;
+border-left:solid 10px #000000;
+text-align:center;
+}
+
+.footer{
+position:fixed;
+bottom:5px;
+background-color:#000000;
+width:100%;
+padding:10px;
+}
+
+a{
+color:#FFF;
+text-decoration:none;
+}
+
+.button{
+text-align:center;
+}
